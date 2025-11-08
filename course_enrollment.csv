@@ -1,0 +1,17 @@
+
+Student_ID,Full_Name,Age,Gender,Email,Course_Name,Enrollment_Date,Completion_Status,Score,Feedback_Rating
+S001,Alice Dupont,25,F,alice.dupont@gmail.com,Data Science 101,10/09/2024,Completed,88,5
+S002,Bob Martin,42,M,bob.martin@example.com,Web Development,20/05/2023,Ongoing,75,4
+S003,Claire Millet,32,F,claire.millet@gmail,Machine Learning,10/12/2025,Pending,90,4
+S004,David Legrand,16,M,david.legrand@yahoo.com,Cybersecurity,05/02/2022,Completed,65,3
+S005,Eve Charlier,30,F,,Data Visualization,12/03/2023,Completed,95,5
+S006,Frank Poisson,80,Male,frank.poisson@hotmail.com,Statistics,20/08/2024,Ongoing,50,2
+S007,Grace Dupuis,22,Female,grace.dupuis@domain.org,Python Programming,25/07/2023,Completed,105,6
+S008,Hugo Caron,27,X,hugo.caron@invalid.org,Databases,18/11/2025,Ongoing,82,4
+S009,Isabelle Lefebvre,0,F,isabelle.lefebvre@hotmail.com,Networks,02/02/2023,Completed,88,5
+S010,Julien Lebon,40,F,julien.lebon@gmail.com,Algorithms,01/06/2023,Completed,-10,4
+S010,Karine Moreau,28,M,karine.moreau@outlook.com,Software Engineering,22/09/2023,Completed,78,4
+S011,Laura Petit,120,F,laura.petit@gmail.com,Cloud Computing,30/10/2023,Completed,85,5
+S012,Maxime Gros,35,M,maxime.gros@gmail.com,Blockchain,05/08/2022,Completed,92,4
+S013,Nadia Fortin,45,Female,nadia.fortin@domain,DevOps,14/04/2025,Ongoing,88,5
+S014,Olivier Dumas,33,M,olivier.dumas@gmail.com,AI Ethics,03/05/2021,Completed,89,4

@@ -1,0 +1,17 @@
+
+Patient_ID,Name,Age,Gender,Email,Exam_Type,Exam_Date,Department,Blood_Pressure,Waiting_Time_min
+P001,Sara Benali,34,F,sara.benali@gmail.com,CT Brain,2023-09-10,Radiology,120,15
+P002,Youssef El Amrani,29,M,youssef@outlook.com,MRI Abdomen,2022-11-04,Oncology,110,10
+P003,Amira Haddad,150,F,amira.haddad@gmail,CT Thorax,2024-03-10,Radiolgy,130,30
+P004,,45,M,fatima@hospital.com,CT Brain,2023-07-01,Radiology,125,20
+P005,Fatima Zahra,39,F,fatimazahra@gmail.com,,2025-12-01,Cardiology,140,25
+P006,Hassan 123,55,Male,hassan.el@gmail.com,X-Ray Chest,2022-02-15,Radiology,-90,12
+P007,Nadia Idrissi,62,Female,,CT Abdomen,2023-05-22,Radiology,118,
+P008,Omar Alaoui,18,M,omar.alaoui@gmail.com,CT Brain,2023-09-05,Oncology,115,18
+P009,Rania K.,27,X,rania.k@hospital.org,MRI Brain,2023-03-14,Radiology,999,14
+P010,Khalid Tazi,40,F,khalid.tazi@gmail.com,CT Abdomen,2023-08-30,Radiology,122,16
+P010,Mehdi Lahlou,33,M,mehdi@lahlou.com,CT Brain,2023-12-02,Radiology,128,22
+P011,Sanae Bourkadi,120,F,sanae.bourkadi@gmail.com,X-Ray Chest,2023-07-20,Oncology,119,13
+P012,Adil Kh,44,M,adil.kh@gmail.com,CT Thorax,2023-04-05,Cardiology,135,11
+P013,Aicha T,0,M,aicha.t@gmail.com,MRI Spine,2022-06-09,Radiology,121,9
+P014,Karim B.,65,F,karim.b@gmail.com,CT Brain,2023-10-10,Radiology,117,unknown
